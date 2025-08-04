@@ -20,7 +20,6 @@ The repository currently includes the following notebooks:
   - Applying the model to the CARLA self-driving car dataset.
   - Using sparse categorical crossentropy for pixel-wise prediction.
 
-*Additional supporting files, such as datasets, model weights, and utility scripts, will be added as they are completed and uploaded.*
 
 ## How to Use
 
